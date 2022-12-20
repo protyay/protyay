@@ -7,8 +7,7 @@
 Here are some ideas to get you started:
 -->
 ## About Me :boy:
-Hola!! I'm a backend developer based out of Kolkata, India. 
-I'm experienced in developing large scale reliable systems.
+Hola!! I'm a backend developer experienced in developing large scale reliable systems.
 
 ## Tech Stack
 - Java 17
@@ -16,8 +15,9 @@ I'm experienced in developing large scale reliable systems.
 - AWS (DynamoDB, Step Functions, ECS, Lambda, Cloudformation, Cloudwatch, SNS, SQS)
 - GraphQL
 
-## 🔭 I’m currently working on ...
+## 🔭 Current responsibilities ...
 - Leading the design and implementation for the next generation warehouse distribution technology for a Fortune 5 company
+- Mentoring team members through code reviews and design reviews
 
 ## 🌱 I’m currently learning ...
 + Typescript
