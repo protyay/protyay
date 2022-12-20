@@ -8,20 +8,19 @@ Here are some ideas to get you started:
 -->
 ## About Me :boy:
 Hola!! I'm a backend developer based out of Kolkata, India. 
-I'm experienced in developing reliable systems for reputed clients with a wide variety of technologies. 
-I believe in extreme ownership and adopt that method to deliver end to end product feature from design to production, following design best practices, TDD etc.
+I'm experienced in developing large scale reliable systems.
 
 ## Tech Stack
-- Java / SpringBoot
-- Node
-- Microservices
+- Java 17
+- SpringBoot
+- AWS (DynamoDB, Step Functions, ECS, Lambda, Cloudformation, Cloudwatch, SNS, SQS)
+- GraphQL
 
 ## 🔭 I’m currently working on ...
-- Leading the integration product feature for a data-as-a-service B2B product.
+- Leading the design and implementation for the next generation warehouse distribution technology for a Fortune 5 company
 
 ## 🌱 I’m currently learning ...
-+ Javascript 
-+ Microservice Architechture Patterns
++ Typescript
 
 ## 👯 I’m looking to collaborate on ...
 + Exciting opportunities
