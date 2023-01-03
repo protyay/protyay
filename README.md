@@ -16,7 +16,7 @@ Hola!! I'm a backend developer experienced in developing large scale reliable sy
 - GraphQL
 
 ## 🔭 Current responsibilities ...
-- Leading the design and implementation for the next generation warehouse distribution technology for a Fortune 5 company
+- Leading the design and implementation for the next generation warehouse technology for a Fortune 100 company
 - Mentoring team members through code reviews and design reviews
 
 ## 🌱 I’m currently learning ...
