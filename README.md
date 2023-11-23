@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 ## About Me :boy:
-Hola!! I'm a backend developer experienced in developing large scale reliable systems.
+Hola!! I'm a backend engineer experienced in developing large scale reliable systems.
 
 ## Tech Stack
 - Java 17
@@ -17,10 +17,8 @@ Hola!! I'm a backend developer experienced in developing large scale reliable sy
 
 ## 🔭 Current responsibilities ...
 - Leading the design and implementation for the next generation warehouse technology for a Fortune 100 company
-- Mentoring team members through code reviews and design reviews
+- Mentoring engineers through code / design reviews to help build a sustainable codebase
 
-## 🌱 I’m currently learning ...
-+ Typescript
 
 ## 👯 I’m looking to collaborate on ...
 + Exciting opportunities
